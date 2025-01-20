@@ -2,9 +2,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=0dragon's%20Github&textBg=false&fontColor=black&animation=twinkling&rotate=0&stroke=ff00ff&strokeWidth=1&section=header&reversal=false" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Welcome!;0fyd+Studio.+" alt="Typing SVG" /></a>
-  <!--
-  ![0dragon's GitHub stats](https://github-readme-stats.vercel.app/api?username=0dragon&hide=contribs,prs)
--->
 </div>
 
 <!--내용 부분-->
@@ -30,5 +27,14 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" />&nbsp
 </div>
+
+<br>
+
+<a href="https://github.com/0dragon/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0dragon" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <br>
