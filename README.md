@@ -1,11 +1,7 @@
-## Hi there 👋
-<!--
-**0dragon/0dragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 <!--타이틀 부분-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=0dragon's%20Github&textBg=false&fontColor=black&animation=twinkling&rotate=0&stroke=ff00ff&strokeWidth=1&section=header&reversal=false" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=100&lines=0dragon's+github;0fyd+Studio.+" alt="Typing SVG" /></a>
   <!--
   ![0dragon's GitHub stats](https://github-readme-stats.vercel.app/api?username=0dragon&hide=contribs,prs)
 -->
