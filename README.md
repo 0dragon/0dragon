@@ -1,7 +1,7 @@
 <!--타이틀 부분-->
 <div>
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=0dragon's%20Github&textBg=false&fontColor=black&animation=twinkling&rotate=0&stroke=ff00ff&strokeWidth=1&section=header&reversal=false" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Welcome!;0fyd+Studio.+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&vCenter=true&width=600&height=100&lines=Welcome!;0fyd+Studio.+" alt="Typing SVG" /></a>
 </div>
 
 <!--내용 부분-->
