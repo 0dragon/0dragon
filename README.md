@@ -28,12 +28,16 @@
 </div>
 -->
 <br>
-
-<a href="https://github.com/0dragon/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=0dragon" />
-</a>
-<a href="https://github.com/0dragon/convoychat">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=0dragon&layout=compact&langs_count=8&card_width=320" />
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=0dragon&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=0dragon&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=0dragon&show_icons=true" />
+</picture>
 
 <br>
